@@ -20,3 +20,5 @@ go run . # when you are inside the directory where the file is located
 # Modules use in local in not internet
 1.(install) go mod edit -replace <name_module>=<ubication_file> // go mod edit -replace example.com/greetings=../greetings
 2.(update) go mod tiny
+
+# Created api
